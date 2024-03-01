@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Website Development<br>👯 I’m looking to collaborate on Linkedin<br>🤝 I’m looking for help with Coding<br>🌱 I’m currently learning DSA<br>💬 Ask me about Cars<br>⚡ Fun fact : Solitude over Toxicity...
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Linkedin<br>🤝 I’m looking for help with Coding<br>🌱 I’m currently learning DSA<br>💬 Ask me about Cars<br>⚡ Fun fact : Solitude over Toxicity...
 
 
 ## 🌐 Socials:
