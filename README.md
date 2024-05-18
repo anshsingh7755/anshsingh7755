@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [anshsingh7755]([(https://portfolio-final-psi-woad.vercel.app/)])
+- 👨‍💻 All of my projects are available at [portfolio-final-psi-woad.vercel.app]([(https://portfolio-final-psi-woad.vercel.app/)])
 
 - 💬 Ask me about **react**
 
